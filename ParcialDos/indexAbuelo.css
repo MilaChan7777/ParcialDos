@@ -1,0 +1,9 @@
+body {
+	background-color: pink;
+	width: 100%;
+	height: max-content;
+}
+
+.favorite-kitten-button {
+	outline: none;
+}
